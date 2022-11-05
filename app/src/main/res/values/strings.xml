@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RadioPalmares</string>
+    <string name="pause">Pause</string>
+    <string name="next">NEXT</string>
+    <string name="play">Play</string>
+    <string name="baladas_pop_latino_m_sica_criolla">Baladas,Pop Latino,música criolla</string>
+    <string name="per">Perú</string>
+    <string name="radio_la_inolvidable">Radio La Inolvidable</string>
+    <string name="todo">TODO</string>
+    <string name="radio_palmares">Radio Palmares</string>
+    <string name="paraguay">Paraguay</string>
+    <string name="musica_cristiana_24_7">Musica Cristiana 24/7</string>
+</resources>
